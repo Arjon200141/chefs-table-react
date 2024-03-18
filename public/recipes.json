@@ -1,0 +1,94 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/b3N1rFj/Spicy-Shrimp-Pasta-with-red-sauce.jpg",
+      "recipe_id": 101,
+      "recipe_name": "Spicy Shrimp Pasta",
+      "short_description": "A fiery pasta dish with succulent shrimp and a kick of spice.",
+      "ingredients": ["6-8 large, Shrimp", "2 ounces, Spaghetti", "1 small Tomato", "1 clove, Garlic", "1/4 teaspoon, Chili flakes", "1 tablespoon, Olive oil", "1 tablespoon, Parmesan cheese"],
+      "preparing_time": "30 minutes",
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co/9m0HsDf/mango-chicken-indian-curry-recipe.jpg",
+      "recipe_id": 102,
+      "recipe_name": "Mango Chicken Curry",
+      "short_description": "A fragrant curry infused with the sweetness of mango and the warmth of spices.",
+      "ingredients": ["4 ounces, Chicken breast", "1/4 cup, Mango", "1/2 cup, Coconut milk", "1/4 medium, Onion", "1/2 teaspoon, Ginger", "1 clove, Garlic", "1 teaspoon, Curry powder"],
+      "preparing_time": "40 minutes",
+      "calories": 380
+    },
+    {
+      "recipe_image": "https://i.ibb.co/hckrNxR/Grilled-Vegetable-Panini.jpg",
+      "recipe_id": 103,
+      "recipe_name": "Grilled Vegetable Panini",
+      "short_description": "A delightful panini filled with grilled vegetables and gooey cheese.",
+      "ingredients": ["1/4 medium , Zucchini", "1/4 Bell peppers", "1/4 small Eggplant", "1 slice, Tomato", "1 ounce, Mozzarella cheese", "1 small loaf, Ciabatta bread", "1 tablespoon, Pesto sauce"],
+      "preparing_time": "25 minutes",
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://i.ibb.co/Prp6rFC/Teriyaki-Salmon-Sushi-Bowl-recipe-4.jpg",
+      "recipe_id": 104,
+      "recipe_name": "Teriyaki Salmon Bowl",
+      "short_description": "A nourishing bowl featuring tender teriyaki-glazed salmon and fresh vegetables.",
+      "ingredients": ["4 ounces, Salmon fillet", "1/2 cup cooked, Rice", "1/2 cup chopped, Broccoli", "1/2 medium Carrot", "2 tablespoons, Teriyaki sauce", "1 teaspoon, Sesame seeds", "1 tablespoon, Green onions"],
+      "preparing_time": "35 minutes",
+      "calories": 420
+    },
+    {
+      "recipe_image": "https://i.ibb.co/ftywggp/Caprese-Salad-6.jpg",
+      "recipe_id": 105,
+      "recipe_name": "Caprese Salad",
+      "short_description": "A classic Italian salad showcasing the flavors of ripe tomatoes, fresh mozzarella, and basil.",
+      "ingredients": ["1 medium Tomato", "1 ounce, Fresh mozzarella", "2-3 leaves, Basil leaves", "1 teaspoon, Balsamic vinegar", "1 teaspoon, Extra virgin olive oil", "Pinch, Salt", "Pinch, Black pepper"],
+      "preparing_time": "15 minutes",
+      "calories": 250
+    },
+    {
+      "recipe_image": "https://i.ibb.co/x2kPR0g/Chocolate.jpg",
+      "recipe_id": 106,
+      "recipe_name": "Chocolate Raspberry Tart",
+      "short_description": "Indulge in a decadent tart filled with rich chocolate ganache and sweet raspberries.",
+      "ingredients": ["1 mini tart crust, Pie crust", "1 ounce, Dark chocolate", "2 tablespoons, Heavy cream", "3-4 raspberries, Raspberries", "1 teaspoon, Powdered sugar", "1/4 teaspoon, Vanilla extract"],
+      "preparing_time": "50 minutes",
+      "calories": 380
+    },
+    {
+      "recipe_image": "https://i.ibb.co/xKktJMJ/Lemon-Garlic-Shrimp-08.jpg",
+      "recipe_id": 107,
+      "recipe_name": "Lemon Garlic Butter Shrimp",
+      "short_description": "Succulent shrimp cooked in a flavorful lemon garlic butter sauce.",
+      "ingredients": ["6-8 large shrimp, Shrimp", "1 tablespoon, Butter", "1 clove, Garlic", "1/2 lemon, Lemon juice", "1 tablespoon, Fresh parsley", "Pinch, Salt", "Pinch, Black pepper"],
+      "preparing_time": "20 minutes",
+      "calories": 280
+    },
+    {
+      "recipe_image": "https://i.ibb.co/3sRCmbg/download.jpg",
+      "recipe_id": 108,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy and comforting risotto packed with earthy mushrooms and savory flavors.",
+      "ingredients": ["1/4 cup, Arborio rice", "2-3 Mushrooms", "1/4 small Onion", "1 clove, Garlic", "1/2 cup, Vegetable broth", "1 tablespoon, Parmesan cheese", "1 tablespoon, White wine", "1 tablespoon, Olive oil"],
+      "preparing_time": "45 minutes",
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co/3sBn3K7/download-1.jpg",
+      "recipe_id": 109,
+      "recipe_name": "Thai Green Curry with Tofu",
+      "short_description": "A vibrant and aromatic Thai green curry featuring tofu and fresh vegetables.",
+      "ingredients": ["2 ounces, Tofu", "1 tablespoon, Green curry paste", "1/2 cup, Coconut milk", "1/4 bell pepper, Bell peppers", "1 tablespoon, Bamboo shoots", "2-3 leaves, Thai basil", "1 leaf, Lime leaves", "1/2 cup cooked, Jasmine rice"],
+      "preparing_time": "35 minutes",
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://i.ibb.co/z4D9dy7/download-2.jpg",
+      "recipe_id": 110,
+      "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+      "short_description": "Juicy chicken breasts filled with creamy spinach and tangy feta cheese.",
+      "ingredients": ["1 medium Chicken breasts", "1/4 cup chopped, Spinach", "1 ounce, Feta cheese", "1 clove, Garlic", "1/2 tablespoon, Olive oil", "Pinch, Salt", "Pinch, Black pepper"],
+      "preparing_time": "40 minutes",
+      "calories": 310
+    }
+
+  ]
+  
